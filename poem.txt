@@ -7,3 +7,5 @@ Red
 Black
 Yellow
 France
+Beer
+Wisky
